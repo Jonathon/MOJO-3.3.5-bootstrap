@@ -6,8 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Mojo App</title>
-    <title>Mojo App</title>
-
+    
     <!-- Bootstrap -->
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,400italic,300italic,500|Montserrat:400,700' rel='stylesheet' type='text/css'>
     <link href="_/css/bootstrap.css" rel="stylesheet">

@@ -8,6 +8,7 @@
     <title>Mojo App</title>
 
     <!-- Bootstrap -->
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,400italic,300italic,500|Montserrat:400,700' rel='stylesheet' type='text/css'>
     <link href="_/css/bootstrap.css" rel="stylesheet">
     <link href="_/css/mystyles.css" rel="stylesheet">
 
@@ -18,8 +19,13 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body>
-    <h1>Hello, world!</h1>
+  <body id ="home">
+    <h1>Mojo application</h1>
+    	<section class="container">
+    		<div class="content row">
+    			
+    		</div><!-- content row -->
+    	</section><!-- container -->
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) included in js folder
      -->

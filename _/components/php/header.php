@@ -8,15 +8,16 @@
 				<ul class="nav navbar-nav">
 					<li><a href="index.php">Home</a></li>
 					<li><a href="about.php">About</a></li>
-					<li><a href="news.php">news</a></li>
+					<li><a href="services.php">Services</a></li>
+					<li><a href="news.php">News</a></li>
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Packages <span class="caret"></span></a>
 						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
 							<li><a tabindex="-1" href="packages.php">All Packages</a></li>
 							<li class="divider"></li>
 						  <li><a tabindex="-1" href="packageone.php">Package One</a></li>
-						  <li><a tabindex="-1" href="artists.php#Gerard_Donahue">Gerard Donahue</a></li>
-						  <li><a tabindex="-1" href="artists.php#Jonathan_Ferrar">Jonathan Ferrar</a></li>
+						  <li><a tabindex="-1" href="artists.php#Gerard_Donahue">Package Two</a></li>
+						  <li><a tabindex="-1" href="artists.php#Jonathan_Ferrar">Package Three</a></li>
 						  
 						</ul><!-- dropdown menu -->
 					</li>

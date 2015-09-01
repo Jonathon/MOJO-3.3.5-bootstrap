@@ -20,7 +20,7 @@
     <![endif]-->
   </head>
   <body id ="privacy">
-    <h1>Mojo application</h1>
+   
     	<section class="container">
     		<div class="content row">
 	    		<section class="main col col-lg-8">

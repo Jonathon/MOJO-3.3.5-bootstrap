@@ -2,9 +2,12 @@
 
 //make menus drop automatically
 	$('ul.nav li.dropdown').hover(function() {
-		$('.dropdown-menu', this).fadeIn();
+		$('.dropdown-menu', this).fadeIn('500');
 	}, function() {
-		$('.dropdown-menu', this).fadeOut('fast');
-	});//hover
+		$('.dropdown-menu', this).fadeOut('1000');
+	});
 
-}); //jQuery is loaded
+
+
+}); 
+//jQuery is loaded

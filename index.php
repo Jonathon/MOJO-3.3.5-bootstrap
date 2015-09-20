@@ -25,20 +25,18 @@
     		<div class="content row">
           <?php include "_/components/php/header.php";?>	
           <?php include "_/components/php/snippet-carousel.php"; ?>
-          <section class="main col col-lg-8">
-          <?php include "_/components/php/article-intro.php"; ?>
-		    		
-				</section><!-- Main col -->
+              <section class="main col col-lg-8">
+              <?php include "_/components/php/article-intro.php"; ?>
+    		    		
+    	         </section><!-- Main col -->
         
 	    		
 	    		<section class="sidebar col col-lg-4">
-          <?php include "_/components/php/aside-register.php"; ?>
-         <?php include "_/components/php/aside-faq.php"; ?>
-	    			
-
-
+            <?php include "_/components/php/aside-register.php"; ?>
+            <?php include "_/components/php/aside-faq.php"; ?>
 	    		</section><!-- sidebar col -->	
-    		</div><!-- content row -->
+    		
+        </div><!-- content row -->
         <?php include "_/components/php/footer.php"; ?>
     	</section><!-- container -->
 

@@ -1,0 +1,18 @@
+h1,h2,h3 {
+	font-family: "Montserrat",sans-serif;
+}
+
+p {
+	font-family: "Roboto",sans-serif;
+	font-weight: "400";
+}
+
+ul > li > a  {
+	font-family: "Roboto",sans-serif;
+	font-weight: "400";
+}
+
+#about {
+	font-family: "Roboto",sans-serif;
+	font-weight: "400";
+}

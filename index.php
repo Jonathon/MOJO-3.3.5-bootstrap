@@ -34,6 +34,7 @@
 	    		<section class="sidebar col col-lg-4">
             <?php include "_/components/php/aside-register.php"; ?>
             <?php include "_/components/php/aside-faq.php"; ?>
+            <?php include "_/components/php/aside-accordion.php"; ?>
 	    		</section><!-- sidebar col -->	
     		
         </div><!-- content row -->

@@ -16,3 +16,62 @@ ul > li > a  {
 	font-family: "Roboto",sans-serif;
 	font-weight: "400";
 }
+
+#index {
+	font-family: "Roboto",sans-serif;
+	font-weight: "400";
+}
+/*contact form stylying (modal)*/
+#contact-form{
+	padding:10px 15px 15px 15px;
+	border:4px solid #4ea0d8;
+	border-radius:10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	
+	overflow:auto;
+	background:#f4f4f4;
+}
+
+#contact-form div{
+	margin-bottom:20px;
+}
+
+#contact-form label{
+	display:inline-block;
+	width:100px;
+	font-weight:bold;
+}
+
+#contact-form input[type='text'],#contact-form input[type='email']{
+	border:#ccc 1px solid;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;
+	height:25px;
+	width:65%;
+}
+
+#contact-form input[type='submit']{
+	padding:12px 17px;
+	color:#fff;
+	background:#fa6e3e;
+	border:0;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;
+	float:right;
+	display:block;
+}
+
+#contact-form input[type='submit']:hover{
+	background:#d55427;
+	cursor:pointer;
+}
+
+#contact-form .content-footer p{
+	font-style:italic;
+	text-align:center;
+	color:#666;
+	font-size:80%;
+}

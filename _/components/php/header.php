@@ -27,10 +27,10 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="index.php"><span class="glyphicon glyphicon-home"><span class="sr-only">(current)</span> Home</a></li>
-        <li><a href="services.php"><span class="glyphicon glyphicon-info-sign"></span> Services</a></li>
-        <li><a href="about.php"><span class="glyphicon glyphicon-info-sign"></span> About us</a></li>
-        <li><a href="news.php"><span class="glyphicon glyphicon-envelope"></span> News</a></li>
+        <li><a href="index.php"><span class="glyphicon glyphicon-home"><span class="sr-only">(current)</span> Home</a></li>
+        <li><a href="services.php"><span class="glyphicon glyphicon-info-sign"></span>  Services</a></li>
+        <li><a href="about.php"><span class="glyphicon glyphicon-info-sign"></span>  About us</a></li>
+        <li><a href="blog.php"><span class="glyphicon glyphicon-envelope"></span>  Blog</a></li>
         <li class="dropdown">
           <a href="packages.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Choice of Packages <span class="caret"></span></a>
           <ul class="dropdown-menu">

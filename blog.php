@@ -44,6 +44,7 @@
 
 	    		</section><!-- sidebar col -->	
     		</div><!-- content row -->
+         <?php include "_/components/php/footer.php"; ?>
     	</section><!-- container -->
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) included in js folder

@@ -2,6 +2,15 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19102",
 "files": {
+	"\/_\/components\/css\/theme.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/css\/theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_\/components\/js\/_bootstrap.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -10,7 +19,7 @@
 		"outputAbbreviatedPath": "\/_\/js\/bootstrap-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 0
 		},
 	"\/_\/components\/js\/_myjavascript.js": {
@@ -21,12 +30,12 @@
 		"outputAbbreviatedPath": "\/_\/js\/myjavascript-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 0
 		},
 	"\/_\/components\/js\/affix.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/js\/affix.js",
 		"outputAbbreviatedPath": "\/_\/components\/js\/min\/affix-min.js",
@@ -37,7 +46,7 @@
 		},
 	"\/_\/components\/js\/alert.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/js\/alert.js",
 		"outputAbbreviatedPath": "\/_\/components\/js\/min\/alert-min.js",
@@ -48,7 +57,7 @@
 		},
 	"\/_\/components\/js\/button.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/js\/button.js",
 		"outputAbbreviatedPath": "\/_\/components\/js\/min\/button-min.js",
@@ -59,7 +68,7 @@
 		},
 	"\/_\/components\/js\/carousel.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/js\/carousel.js",
 		"outputAbbreviatedPath": "\/_\/components\/js\/min\/carousel-min.js",
@@ -70,7 +79,7 @@
 		},
 	"\/_\/components\/js\/collapse.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/js\/collapse.js",
 		"outputAbbreviatedPath": "\/_\/components\/js\/min\/collapse-min.js",
@@ -81,7 +90,7 @@
 		},
 	"\/_\/components\/js\/dropdown.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/js\/dropdown.js",
 		"outputAbbreviatedPath": "\/_\/components\/js\/min\/dropdown-min.js",
@@ -92,7 +101,7 @@
 		},
 	"\/_\/components\/js\/jquery.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/js\/jquery.js",
 		"outputAbbreviatedPath": "\/_\/js\/jquery-min.js",
@@ -114,7 +123,7 @@
 		},
 	"\/_\/components\/js\/modal.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/js\/modal.js",
 		"outputAbbreviatedPath": "\/_\/components\/js\/min\/modal-min.js",
@@ -125,7 +134,7 @@
 		},
 	"\/_\/components\/js\/popover.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/js\/popover.js",
 		"outputAbbreviatedPath": "\/_\/components\/js\/min\/popover-min.js",
@@ -136,7 +145,7 @@
 		},
 	"\/_\/components\/js\/scrollspy.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/js\/scrollspy.js",
 		"outputAbbreviatedPath": "\/_\/components\/js\/min\/scrollspy-min.js",
@@ -147,7 +156,7 @@
 		},
 	"\/_\/components\/js\/tab.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/js\/tab.js",
 		"outputAbbreviatedPath": "\/_\/components\/js\/min\/tab-min.js",
@@ -158,7 +167,7 @@
 		},
 	"\/_\/components\/js\/tooltip.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/js\/tooltip.js",
 		"outputAbbreviatedPath": "\/_\/components\/js\/min\/tooltip-min.js",
@@ -169,7 +178,7 @@
 		},
 	"\/_\/components\/js\/transition.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/js\/transition.js",
 		"outputAbbreviatedPath": "\/_\/components\/js\/min\/transition-min.js",
@@ -177,6 +186,26 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/_\/components\/less\/_mystyles.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/less\/_mystyles.less",
+		"outputAbbreviatedPath": "\/_\/css\/mystyles.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 1,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
 		},
 	"\/_\/components\/less\/alerts.less": {
 		"allowInsecureImports": 0,
@@ -1198,6 +1227,26 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/_\/components\/less\/mystyles.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/less\/mystyles.less",
+		"outputAbbreviatedPath": "\/_\/components\/css\/mystyles.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
 	"\/_\/components\/less\/navbar.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -1699,7 +1748,7 @@
 		},
 	"\/_\/css\/mystyles.css": {
 		"fileType": 16,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/css\/mystyles.css",
 		"outputAbbreviatedPath": "No Output Path",
@@ -1885,17 +1934,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/koala-config.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/koala-config.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/koala-config-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
 	"\/log.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1954,7 +1992,7 @@
 	"iconImageName": "brackets_brown"
 	},
 "projectSettings": {
-	"alwaysUseExternalServer": 0,
+	"alwaysUseExternalServer": 1,
 	"animateCSSInjections": 1,
 	"autoApplyPSLanguageSettingsStyle": 0,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
@@ -2108,7 +2146,7 @@
 	"coffeeMinifyOutput": 1,
 	"coffeeOutputStyle": 0,
 	"coffeeSyntaxCheckerStyle": 1,
-	"externalServerAddress": "http:\/\/localhost:5757",
+	"externalServerAddress": "localhost:8888",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
 	"hamlAutoOutputPathEnabled": 1,

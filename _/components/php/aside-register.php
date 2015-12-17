@@ -23,7 +23,7 @@
 				<form id="contact-form">
 					<header id="content-header">
 						<h3>Getting Started</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam mi nibh</p>
+						<p>We never spam so rest assured</p>
 					</header>
 					<div>
 						<label>Name*</label>

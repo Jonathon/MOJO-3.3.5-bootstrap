@@ -25,18 +25,19 @@
     		<div class="content row">
           <?php include "_/components/php/header.php";?>	
           <?php include "_/components/php/snippet-carousel.php"; ?>
-          <section class="main col col-lg-8">
-          <?php include "_/components/php/article-intro.php"; ?>
-		    		</article>
-				</section><!-- Main col -->
-        <?php include "_/components/php/aside-register.php"; ?>
+              <section class="main col col-lg-8">
+              <?php include "_/components/php/article-intro.php"; ?>
+    		    		
+    	         </section><!-- Main col -->
+        
 	    		
 	    		<section class="sidebar col col-lg-4">
-	    			
-
-
+            <?php include "_/components/php/aside-register.php"; ?>
+            <?php include "_/components/php/aside-faq.php"; ?>
+            <?php include "_/components/php/aside-accordion.php"; ?>
 	    		</section><!-- sidebar col -->	
-    		</div><!-- content row -->
+    		
+        </div><!-- content row -->
         <?php include "_/components/php/footer.php"; ?>
     	</section><!-- container -->
 
@@ -46,6 +47,6 @@
     <script src="_/js/jquery-min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="_/js/bootstrap-min.js"></script>
-    <script src="_/js/myjavascript.js"></script>
+    <script src="_/js/myjavascript-min.js"></script>
   </body>
 </html>
